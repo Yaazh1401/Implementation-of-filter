@@ -1,4 +1,6 @@
 # Implementation-of-filter
+## Name : Yaazhini S
+## Register no:212224230308
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
